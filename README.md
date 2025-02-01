@@ -8,6 +8,7 @@ This space serves as a journal of my learning, experimentation, and growth, as I
 
 I strongly believe that **technology drives the future**, and if it's both **useful and exciting**, why not be part of it?
 
+You can get in touch with me through my LinkedIn
 ---
 
 ## 🛠️ Technologies & Skills  
