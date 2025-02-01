@@ -22,11 +22,11 @@ I'm currently working with the following technologies:
 
 ---
 
-## 🚀 Current Project: **Memories**  
+## 🚀 Current Project: **["Memories"](https://github.com/yaxfer1/Memories)**
 
 In my free time, I'm developing **Memories**, an application that automates the drafting of **technical reports** using a **human-in-the-loop** approach.  
 This project is an evolution of my Bachelor's Thesis,  
-**["News Generation and Editing using GPT: Business Plan and Technological Development"](TenNews)**.  
+**["News Generation and Editing using GPT: Business Plan and Technological Development"](https://github.com/yaxfer1/TenNews)**.  
 
 ### 🎯 **Project Goal**  
 **Memories** aims to assist users in efficiently drafting technical documentation.  
