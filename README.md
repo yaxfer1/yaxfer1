@@ -13,7 +13,7 @@ JavaScript (TypeScript), CSS, and HTML → Frontend development with React.
 Python → Focused on Retrieval-Augmented Generation (RAG) technology.
 PyTorch → My main interest in Machine Learning.
 Academic stack → C, Assembly, SQL, Power BI.
-## Current Project: [Memories]([URL](https://github.com/yaxfer1/Memories))
+## Current Project: [Memories](https://github.com/yaxfer1/Memories)
 In my free time, I'm developing Memories, an application that automates the drafting of technical reports using a human-in-the-loop approach. This project is an evolution of my Bachelor's Thesis, "News Generation and Editing using GPT: Business Plan and Technological Development" (TenNews Repository).
 
 🎯 Project Goal
