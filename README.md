@@ -18,7 +18,7 @@ I'm currently working with the following technologies:
 - **Java** → My primary language during my academic training.  
 - **JavaScript (TypeScript), CSS, and HTML** → Frontend development with **React**.  
 - **Python** → Focused on **Retrieval-Augmented Generation (RAG) technology**.  
-- **PyTorch** → My main interest in **Machine Learning**.  
+- Learning **PyTorch** → My main interest in **Machine Learning**.  
 - **Academic stack** → C, Assembly, SQL, Power BI.  
 
 ---
